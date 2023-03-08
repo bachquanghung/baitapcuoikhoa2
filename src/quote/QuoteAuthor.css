@@ -1,0 +1,19 @@
+.container{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    font-weight: 500;
+}
+
+
+.authorName2{
+    font-weight: 700;
+    font-size: 20px;
+}
+.contentList{
+    width: 400px;
+
+}

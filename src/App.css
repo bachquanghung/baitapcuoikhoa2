@@ -1,0 +1,13 @@
+.random2{
+  margin-left: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.authorName2{
+  font-weight: 700;
+  font-size: 20px;
+}

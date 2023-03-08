@@ -1,0 +1,49 @@
+.container{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    font-weight: 500;
+    margin: 30px;
+}
+.random{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+   position: relative;
+   left:30%;
+   cursor: pointer;
+}
+.randomText{
+    margin-right: 5px;
+}
+.quoteField{
+    width: 500px;
+}
+.quoteAuthorField{
+display: flex;
+align-items: center;
+display: flex;
+justify-content:space-between;
+align-items: center;
+padding: 25px;
+margin-top: 80px;
+background-color: lightgray;
+}
+.quoteAuthorField:hover{
+    cursor: pointer;
+    background-color: #333333;
+    color: white;
+}
+.quoteTag{
+    font-weight: 100;
+}
+.quoteContent{
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+
